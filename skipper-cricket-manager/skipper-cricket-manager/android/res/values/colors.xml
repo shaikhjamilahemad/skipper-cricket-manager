@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_bg">#10261F</color>
+    <color name="board">#10261F</color>
+    <color name="board_deep">#0B1D17</color>
+</resources>

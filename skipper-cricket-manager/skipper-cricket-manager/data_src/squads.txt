@@ -1,0 +1,273 @@
+# Squads researched 20 Oct 2026. Format:
+# COMP|id|name|format|homeCC|overseasMaxXI|matchesPerTeam|playoff|startMonth|currency|purse|squadMax|overseasMaxSquad
+# TEAM|id|name|short|color1|color2|city|venue|pitch|captain
+# then one line of comma-separated player names (must exist in players_*.txt)
+# pitch: F flat, B balanced, G green/seam, D dry/spin, P pace+bounce, S slow/low
+
+COMP|IPL|Indian Premier League|T20|IND|4|14|ipl4|3|INR Cr|125|25|8
+TEAM|CSK|Chennai Super Kings|CSK|F9CD05|1B57A3|Chennai|MA Chidambaram Stadium|D|Ruturaj Gaikwad
+MS Dhoni, Sanju Samson, Ruturaj Gaikwad, Ayush Mhatre, Dewald Brevis, Urvil Patel, Kartik Sharma, Matt Short, Sarfaraz Khan, Anshul Kamboj, Gurjapneet Singh, Mukesh Choudhary, Nathan Ellis, Noor Ahmad, Khaleel Ahmed, Matt Henry, Rahul Chahar, Zak Foulkes, Jamie Overton, Ramakrishna Ghosh, Shivam Dube, Shreyas Gopal, Akeal Hosein, Prashant Veer, Aman Khan
+TEAM|DC|Delhi Capitals|DC|17479E|EF1B23|Delhi|Arun Jaitley Stadium|F|Axar Patel
+Abishek Porel, Ashutosh Sharma, Karun Nair, KL Rahul, Nitish Rana, Sameer Rizvi, Tristan Stubbs, David Miller, Ben Duckett, Pathum Nissanka, Sahil Parakh, Prithvi Shaw, Dushmantha Chameera, Rishabh Pant, Mitchell Starc, Mukesh Kumar, Zeeshan Ansari, Tripurana Vijay, Auqib Nabi, Kyle Jamieson, Ajay Mandal, Axar Patel, Madhav Tiwari, Vipraj Nigam
+TEAM|GT|Gujarat Titans|GT|1B2133|C9A74E|Ahmedabad|Narendra Modi Stadium|B|Shubman Gill
+Anuj Rawat, Jos Buttler, Kumar Kushagra, Sai Sudharsan, Shubman Gill, Tom Banton, Gurnoor Brar, Ishant Sharma, Kagiso Rabada, Mohammed Siraj, Arshad Khan, Prasidh Krishna, Sai Kishore, Rashid Khan, Ashok Sharma, Prithvi Raj Yarra, Luke Wood, Glenn Phillips, Jayant Yadav, Manav Suthar, Nishant Sindhu, Rahul Tewatia, Shahrukh Khan, Washington Sundar, Jason Holder
+TEAM|KKR|Kolkata Knight Riders|KKR|3A225D|B3A123|Kolkata|Eden Gardens|F|Ajinkya Rahane
+Ajinkya Rahane, Angkrish Raghuvanshi, Manish Pandey, Rinku Singh, Rovman Powell, Finn Allen, Tejasvi Singh, Rahul Tripathi, Tim Seifert, Harshit Rana, Umran Malik, Vaibhav Arora, Varun Chakravarthy, Matheesha Pathirana, Kartik Tyagi, Prashant Solanki, Mustafizur Rahman, Akash Deep, Anukul Roy, Ramandeep Singh, Sunil Narine, Cameron Green, Sarthak Ranjan, Daksh Kamra, Rachin Ravindra
+TEAM|LSG|Lucknow Super Giants|LSG|0057E2|F47B20|Lucknow|Ekana Stadium|S|
+Abdul Samad, Himmat Singh, Matthew Breetzke, Nicholas Pooran, Kuldeep Yadav, Mukul Choudhary, Akshat Raghuwanshi, Josh Inglis, Akash Singh, Arjun Tendulkar, Avesh Khan, Digvesh Rathi, Manimaran Siddharth, Mayank Yadav, Mohammed Shami, Mohsin Khan, Prince Yadav, Anrich Nortje, Naman Tiwari, Aiden Markram, Arshin Kulkarni, Ayush Badoni, Mitchell Marsh, Shahbaz Ahmed, Wanindu Hasaranga
+TEAM|MI|Mumbai Indians|MI|004BA0|D1AB3E|Mumbai|Wankhede Stadium|F|Hardik Pandya
+Robin Minz, Rohit Sharma, Ryan Rickelton, Sherfane Rutherford, Suryakumar Yadav, Tilak Varma, Quinton de Kock, Danish Malewar, Allah Ghazanfar, Ashwani Kumar, Deepak Chahar, Jasprit Bumrah, Mayank Markande, Raghu Sharma, Shardul Thakur, Trent Boult, Mohammad Izhar, Corbin Bosch, Hardik Pandya, Mitchell Santner, Naman Dhir, Raj Angad Bawa, Will Jacks, Atharva Ankolekar, Mayank Rawat
+TEAM|PBKS|Punjab Kings|PBKS|DD1F2D|A7A9AC|Mullanpur|Maharaja Yadavindra Singh Stadium|P|Shreyas Iyer
+Harnoor Singh, Nehal Wadhera, Prabhsimran Singh, Priyansh Arya, Pyla Avinash, Shashank Singh, Shreyas Iyer, Vishnu Vinod, Arshdeep Singh, Lockie Ferguson, Vyshak Vijaykumar, Xavier Bartlett, Yash Thakur, Yuzvendra Chahal, Ben Dwarshuis, Azmatullah Omarzai, Harpreet Brar, Marco Jansen, Marcus Stoinis, Mitchell Owen, Musheer Khan, Suryansh Shedge, Cooper Connolly, Pravin Dubey, Vishal Nishad
+TEAM|RR|Rajasthan Royals|RR|EA1A85|254AA5|Jaipur|Sawai Mansingh Stadium|B|Riyan Parag
+Dhruv Jurel, Lhuan-dre Pretorius, Shimron Hetmyer, Shubham Dubey, Vaibhav Suryavanshi, Yashasvi Jaiswal, Ravi Singh, Aman Rao Perala, Jofra Archer, Kwena Maphaka, Nandre Burger, Sandeep Sharma, Tushar Deshpande, Yudhvir Singh, Ravi Bishnoi, Sushant Mishra, Yash Raj Punja, Vignesh Puthur, Brijesh Sharma, Adam Milne, Kuldeep Sen, Donovan Ferreira, Ravindra Jadeja, Riyan Parag, Sam Curran
+TEAM|RCB|Royal Challengers Bengaluru|RCB|D11D26|1A1A1A|Bengaluru|M Chinnaswamy Stadium|F|Rajat Patidar
+Devdutt Padikkal, Jitesh Sharma, Phil Salt, Rajat Patidar, Tim David, Virat Kohli, Jordan Cox, Vihaan Malhotra, Abhinandan Singh, Bhuvneshwar Kumar, Josh Hazlewood, Nuwan Thushara, Rasikh Dar, Suyash Sharma, Yash Dayal, Jacob Duffy, Vicky Ostwal, Jacob Bethell, Krunal Pandya, Romario Shepherd, Swapnil Singh, Venkatesh Iyer, Satvik Deswal, Mangesh Yadav, Kanishk Chouhan
+TEAM|SRH|Sunrisers Hyderabad|SRH|F26522|1A1A1A|Hyderabad|Rajiv Gandhi Intl Stadium|F|Pat Cummins
+Aniket Verma, Heinrich Klaasen, Ishan Kishan, Smaran Ravichandran, Travis Head, Salil Arora, Brydon Carse, Eshan Malinga, Harshal Patel, Jaydev Unadkat, Pat Cummins, T Natarajan, Sakib Hussain, Onkar Tarmale, Amit Kumar, Praful Hinge, Abhishek Sharma, Harsh Dubey, Kamindu Mendis, Nitish Kumar Reddy, Shivang Kumar, Krains Fuletra, Liam Livingstone, Shivam Mavi, Jack Edwards
+
+COMP|BBL|Big Bash League|T20|AUS|3|10|ipl4|12|AUD k|2000|19|3
+TEAM|STR|Adelaide Strikers|STR|0B6ABF|D9E7F5|Adelaide|Adelaide Oval|B|Alex Carey
+Alex Carey, Mark Chapman, Mackenzie Harvey, Thomas Kelly, Lloyd Pope, Jason Sangha, Liam Scott, Matt Short, Ben Stokes, Tom Straker, Henry Thornton, Jerrssis Wadia, Wes Agar, Harry Nielsen, Jordan Buckingham, Conor McInerney
+TEAM|HEA|Brisbane Heat|HEA|00B5C8|F15A24|Brisbane|The Gabba|P|Nathan McSweeney
+Xavier Bartlett, Max Bryant, Tom Curran, Lachlan Hearne, Bevon Jacobs, Spencer Johnson, Usman Khawaja, Matthew Kuhnemann, Nathan McSweeney, Michael Neser, Matt Renshaw, Tim Robinson, Callum Vidler, Hugh Weibgen, Jack Wildermuth, Jimmy Peirson
+TEAM|HUR|Hobart Hurricanes|HUR|5E2A84|C7B8E0|Hobart|Bellerive Oval|G|Nathan Ellis
+Marcus Bean, Iain Carlisle, Nikhil Chaudhary, Tim David, Nathan Ellis, Nick Hobson, Shai Hope, Ben McDermott, Riley Meredith, Mitchell Owen, Will Prestwidge, Billy Stanlake, Tim Ward, Jake Weatherald, Beau Webster, Adam Zampa, Jake Doran
+TEAM|REN|Melbourne Renegades|REN|E31E26|1A1A1A|Melbourne|Docklands Stadium|B|Will Sutherland
+Michael Archer, Jonny Bairstow, Jason Behrendorff, Michael Bracewell, Josh Brown, Harry Dixon, Brendan Doggett, Sam Elliott, Jake Fraser-McGurk, Caleb Jewell, Ben Manenti, Ollie Peake, Tom Rogers, Callum Stow, Will Sutherland
+TEAM|STA|Melbourne Stars|STA|00A650|0B3D2C|Melbourne|MCG|B|Marcus Stoinis
+Finn Allen, Austin Anlezark, Hilton Cartwright, Sam Harper, Liam Hatcher, Campbell Kellaway, Glenn Maxwell, Tom F Rogers, Peter Siddle, Marcus Stoinis, Mitch Swepson, Todd Murphy, Jamie Overton, Craig Overton
+TEAM|SCO|Perth Scorchers|SCO|F36F21|2B2B2B|Perth|Perth Stadium|P|Ashton Turner
+Ashton Agar, Mahli Beardman, Cooper Connolly, Brody Couch, Zak Crawley, Joel Curtis, Aaron Hardie, Calvin Harrison, Mitchell Marsh, Will Malajczuk, Lance Morris, Joel Paris, Jhye Richardson, Ashton Turner, Josh Inglis, Andrew Tye
+TEAM|SIX|Sydney Sixers|SIX|D6006F|1A1A1A|Sydney|Sydney Cricket Ground|B|
+Sean Abbott, Jafer Chohan, Joel Davies, Ollie Davies, Ben Dwarshuis, Jack Edwards, Chris Jordan, Hayden Kerr, Riley Kingsell, Fergus O'Neill, Josh Philippe, Corey Rocchiccioli, Jake Scott, Tim Seifert, Lachlan Shaw, Jordan Silk, Steve Smith
+TEAM|THU|Sydney Thunder|THU|9ACA3C|1A1A1A|Sydney|Sydney Showground|B|David Warner
+Cameron Bancroft, Sam Billings, Lockie Ferguson, Matt Gilkes, Chris Green, Ryan Hadley, Sam Konstas, Nic Maddinson, Aidan O'Connor, Daniel Sams, Tanveer Sangha, David Warner, Blake Nikitaras, Kurtis Patterson, Will Salzmann, Jack Nisbet, Chris Tremain
+
+COMP|PSL|Pakistan Super League|T20|PAK|4|10|ipl4|4|USD k|1600|20|6
+TEAM|LQ|Lahore Qalandars|LQ|2BB34B|E21E26|Lahore|Gaddafi Stadium|F|Shaheen Afridi
+Shaheen Afridi, Abdullah Shafique, Sikandar Raza, Mohammad Naeem, Mustafizur Rahman, Haris Rauf, Usama Mir, Fakhar Zaman, Ubaid Shah, Haseebullah Khan, Mohammad Farooq, Dasun Shanaka, Parvez Hossain Emon, Asif Ali, Tayyab Tahir, Gudakesh Motie
+TEAM|KK|Karachi Kings|KK|0F4C9A|ED1C24|Karachi|National Stadium|F|David Warner
+Hasan Ali, Abbas Afridi, Khushdil Shah, Saad Baig, Moeen Ali, David Warner, Azam Khan, Salman Ali Agha, Shahid Aziz, Mir Hamza, Adam Zampa, Hamza Sohail, Aqib Ilyas, Khuzaima Bin Tanveer, Johnson Charles, Muhammad Waseem, Ihsanullah, Rizwanullah
+TEAM|IU|Islamabad United|IU|E22A27|1A1A1A|Islamabad|Rawalpindi Cricket Stadium|F|Shadab Khan
+Shadab Khan, Salman Irshad, Andries Gous, Devon Conway, Faheem Ashraf, Mehran Mumtaz, Max Bryant, Khurram Shahzad, Mark Chapman, Mohammad Wasim Jr, Mir Hamza Sajjad, Sameer Minhas, Sameen Gul, Shamar Joseph, Imad Wasim, Richard Gleeson, Haider Ali, Mohammad Hasnain, Dipendra Singh Airee
+TEAM|PZ|Peshawar Zalmi|PZ|FFD200|1A1A1A|Peshawar|Arbab Niaz Stadium|F|Babar Azam
+Babar Azam, Sufyan Moqim, Abdul Samad (PAK), Ali Raza, Aaron Hardie, Aamir Jamal, Mohammad Haris, Khalid Usman, Abdul Subhan, James Vince, Michael Bracewell, Kusal Mendis, Iftikhar Ahmed, Nahid Rana, Mirza Tahir Baig
+TEAM|QG|Quetta Gladiators|QG|6B2C91|F2C12E|Quetta|Bugti Stadium|B|Saud Shakeel
+Abrar Ahmed, Usman Tariq, Hasan Nawaz, Shamyl Hussain, Spencer Johnson, Rilee Rossouw, Faisal Akram, Arafat Minhas, Jahandad Khan, Khawaja Nafay, Wasim Akram Jnr, Khan Zaib, Bismillah Khan, Saqib Khan, Brett Hampton, Sam Harper, Bevon Jacobs, Saud Shakeel, Ben McDermott, Tom Curran
+TEAM|RWP|Rawalpindiz|RWP|00843D|D4AF37|Rawalpindi|Pindi Cricket Stadium|F|Mohammad Rizwan
+Mohammad Rizwan, Sam Billings, Zaman Khan, Yasir Khan, Naseem Shah, Rishad Hossain, Daryl Mitchell, Mohammad Amir, Abdullah Fazal, Amad Butt, Dian Forrester, Laurie Evans, Asif Afridi, Kamran Ghulam, Fawad Ali, Mohammad Amir Khan, Shahzaib Khan
+TEAM|SS|Sialkot Stallionz|SS|8C1D40|F5A623|Sialkot|Jinnah Stadium Sialkot|B|Shan Masood
+Mohammad Nawaz, Salman Mirza, Ahmed Daniyal, Saad Masood, Steve Smith, Jahanzaib Sultan, Sahibzada Farhan, Ashton Turner, Peter Siddle, Tabraiz Shamsi, Lachlan Shaw, Delano Potgieter, Josh Philippe, Shan Masood, Momin Qamar, Awais Zafar
+TEAM|HHK|Hyderabad Houston Kingsmen|HHK|0E3A5B|E8B923|Hyderabad (Sindh)|Niaz Stadium|B|Saim Ayub
+Saim Ayub, Akif Javed, Maaz Sadaqat, Marnus Labuschagne, Usman Khan, Mohammad Ali, Kusal Perera, Irfan Khan, Hassan Khan, Shayan Jahangir, Ottneil Baartman, Hammad Azam, Riley Meredith, Sharjeel Khan, Asif Mehmood, Hunain Shah, Rizwan Mehmood, Saad Ali, Tayyab Arif
+
+COMP|SA20|SA20|T20|SA|4|10|ipl4|12|ZAR m|34|19|7
+TEAM|DSG|Durban's Super Giants|DSG|00B4E5|1B1464|Durban|Kingsmead|B|Aiden Markram
+Jos Buttler, Devon Conway, Sam Curran, Liam Livingstone, Sunil Narine, Kane Williamson, Marques Ackerman, David Bedingham, Eathan Bosch, Gerald Coetzee, Tony de Zorzi, Daryn Dupavillon, Simon Harmer, Evan Jones, Aiden Markram, Kyle Simmonds, Kwena Maphaka, Andile Simelane, Heinrich Klaasen
+TEAM|JSK|Joburg Super Kings|JSK|FDB913|0A3C78|Johannesburg|Wanderers Stadium|P|Faf du Plessis
+Leus du Plooy, Jason Holder, Akeal Hosein, James Vince, Matthew de Villiers, Donovan Ferreira, Dian Forrester, Duan Jansen, Rilee Rossouw, Janco Smit, Jarren Bacher, Prenelan Subrayen, Faf du Plessis, Blessing Muzarabani, Kieron Pollard, Andries Gous, Dayyaan Galiem, Jason Rowles, Jamie Overton
+TEAM|MICT|MI Cape Town|MICT|004BA0|D1AB3E|Cape Town|Newlands|B|Rashid Khan
+Will Jacks, Rashid Khan, Nicholas Pooran, Corbin Bosch, Reeza Hendricks, Thomas Kaber, George Linde, Dane Piedt, Ryan Rickelton, Jason Smith, Tiaan van Vuuren, Tristan Luus, Kagiso Rabada, Trent Boult, Wiaan Mulder, Shimron Hetmyer, Lehan Botha, Daniel Smith, Oliver Whitehead
+TEAM|PR|Paarl Royals|PR|E4007C|254AA5|Paarl|Boland Park|D|David Miller
+Dan Lawrence, Gudakesh Motie, Azmatullah Omarzai, Sikandar Raza, Thomas Rew, Asa Tribe, Mujeeb Ur Rahman, Ottneil Baartman, Bjorn Fortuin, Rubin Hermann, Keagan Lion-Cachet, David Miller, Delano Potgieter, Kyle Verreynne, Hardus Viljoen, JJ Basson, Nqobani Mokoena, Lhuan-dre Pretorius, Joe Root
+TEAM|PC|Pretoria Capitals|PC|00205B|E31B23|Centurion|SuperSport Park|P|Rassie van der Dussen
+Sherfane Rutherford, Phil Salt, Matt Short, Connor Esterhuizen, Wihan Lubbe, Keshav Maharaj, Lungi Ngidi, Bryce Parsons, Gideon Peters, Lizaad Williams, Codi Yusuf, Dewald Brevis, Bayanda Majola, Andre Russell, Rassie van der Dussen, Temba Bavuma, Josh Breed, Ackeem Auguste, Keemo Paul
+TEAM|SEC|Sunrisers Eastern Cape|SEC|F26522|1A1A1A|Gqeberha|St George's Park|B|Tristan Stubbs
+Tristan Stubbs, Mitchell Marsh, Adam Milne, Rishad Hossain, Quinton de Kock, Matthew Breetzke, Anrich Nortje, Mitchell van Buuren, Jordan Hermann, Lewis Gregory, Senuran Muthusamy, Patrick Kruger, James Coles, Lutho Sipamla, CJ King, JP King, Marco Jansen, Nandre Burger, Craig Overton
+
+COMP|CPL|Caribbean Premier League|T20|WI|4|10|ipl4|8|USD k|1200|18|6
+TEAM|ABF|Antigua & Barbuda Falcons|ABF|E31B23|FFD100|St John's|Sir Vivian Richards Stadium|S|Moeen Ali
+Moeen Ali, Alzarri Joseph, Amir Jangoo, Anderson Mahase, Anderson Phillip, Evin Lewis, Fabian Allen, Jahmar Hamilton, Jayden Seales, Joshua James, Karima Gore, Kusal Perera, Milind Kumar, Rahkeem Cornwall, Shadab Khan, Shamar Springer, Sufyan Moqim, Tajinder Singh, Tim Robinson
+TEAM|BT|Barbados Tridents|BT|00539F|E21E26|Bridgetown|Kensington Oval|B|Chris Green
+Chris Green, Brandon King, Daniel Sams, George Linde, Gudakesh Motie, Jakeem Pollard, Johann Layne, Kadeem Alleyne, Kofi James, Mujeeb Ur Rahman, Quinton de Kock, Ramon Simmonds, Rivaldo Clarke, Shadrack Descarte, Sherfane Rutherford, Zachary Carter, Zishan Motara
+TEAM|GAW|Guyana Amazon Warriors|GAW|00A651|FFD100|Providence|Providence Stadium|S|Imran Tahir
+Imran Tahir, Dwaine Pretorius, Glenn Phillips, Isai Thorne, Jonathan van Lange, Khary Pierre, Matthew Nandu, Mavendra Dindyal, Mohammad Haris, Mohammad Nabi, Quentin Sampson, Rahmanullah Gurbaz, Romario Shepherd, Ronaldo Alimohamed, Shai Hope, Shamar Joseph, Shimron Hetmyer, Veerasammy Permaul
+TEAM|JK|Jamaica Kingsmen|JK|FFCC00|009B3A|Kingston|Sabina Park|P|Rovman Powell
+Rovman Powell, Andre Russell, Hassan Khan, Hunain Shah, Jeavor Royal, Jediah Blades, Keacy Carty, Keemo Paul, Kelvin Pitman, Kirk McKenzie, Maaz Sadaqat, Odean Smith, Romaine Morris, Saim Ayub, Shaqkere Parris, Shayan Jahangir, Tayyab Arif, Usman Khan, Vitel Lawes
+TEAM|SKN|St Kitts & Nevis Patriots|SKN|C8102E|00843D|Basseterre|Warner Park|F|Jason Holder
+Jason Holder, Alick Athanaze, Andre Fletcher, Ashmead Nedd, Dasun Shanaka, Nikhil Chaudhary, Wanindu Hasaranga, Naseem Shah, Waqar Salamkheil, Jeremiah Louis, Johnson Charles, Kevin Wickham, Kyle Mayers, Micah McKenzie, Mikyle Louis, Navin Bidaisee, Obed McCoy
+TEAM|SLK|Saint Lucia Kings|SLK|1C75BC|F2C12E|Gros Islet|Daren Sammy Stadium|B|Roston Chase
+Roston Chase, Ackeem Auguste, Amari Goodridge, Charith Asalanka, Damion Joachim, Darron Nedd, Jewel Andrew, Johann Jeremiah, Joshua Bishop, Kamil Pooran, Keon Gaston, Maheesh Theekshana, Matthew Forde, McKenny Clarke, Noor Ahmad, Shadley van Schalkwyk, Tim Seifert
+TEAM|TKR|Trinbago Knight Riders|TKR|C8102E|1A1A1A|Tarouba|Brian Lara Stadium|S|Nicholas Pooran
+Nicholas Pooran, Akeal Hosein, Alex Hales, Amshi de Silva, Colin Munro, Matthew Breetzke, Dexter Sween, Dominic Drakes, Joshua Da Silva, Justin Greaves, Jyd Goolie, Kieron Pollard, Nathan Edward, Sunil Narine, Terrance Hinds, Usman Tariq, Abdul-Raheem Toppin
+
+COMP|HUN|The Hundred|100|ENG|3|8|top3|8|GBP k|2000|16|4
+TEAM|BP|Birmingham Phoenix|BP|F15A22|1E1E1E|Birmingham|Edgbaston|B|Jacob Bethell
+Jacob Bethell, Rehan Ahmed, Mitchell Owen, Donovan Ferreira, Saqib Mahmood, Usman Tariq, Joe Clarke, Will Smeed, Jordan Thompson, Scott Currie, Laurie Evans, Chris Wood, Ethan Brookes, Mustafizur Rahman
+TEAM|LS|London Spirit|LS|1E2A5A|C9A74E|London|Lord's|B|Liam Livingstone
+Jamie Overton, Liam Livingstone, Adam Zampa, Dewald Brevis, Jonny Bairstow, David Willey, James Coles, Mason Crane, Adam Milne, Adam Hose, Tymal Mills, James Rew, Lhuan-dre Pretorius, Matthew Fisher
+TEAM|MSG|Manchester Super Giants|MSG|0D8BD9|1B1464|Manchester|Old Trafford|B|Jos Buttler
+Jos Buttler, Noor Ahmad, Heinrich Klaasen, Liam Dawson, Aiden Markram, Josh Tongue, Sonny Baker, Gus Atkinson, Leus du Plooy, Tom Hartley, Tim Seifert, Tom Moores, Max Holden, Tawanda Muyeye, George Scrimshaw, Paul Walter
+TEAM|MIL|MI London|MIL|004BA0|D1AB3E|London|The Oval|F|Sam Curran
+Sam Curran, Will Jacks, Rashid Khan, Nicholas Pooran, James Vince, Tom Curran, Trent Boult, Nathan Sowter, Sherfane Rutherford, Richard Gleeson, Ollie Pope, Olly Stone, Ollie Sykes, Callum Parkinson, Jason Roy
+TEAM|SB|Southern Brave|SB|00A86B|0B2545|Southampton|Utilita Bowl|B|
+Jofra Archer, Jamie Smith, Marcus Stoinis, Tristan Stubbs, Adil Rashid, David Miller, Luke Wood, Chris Jordan, Ben McKinney, Thomas Rew, Michael Pepper, Tom Abell, Dan Worrall, Caleb Falconer, Nikhil Chaudhary
+TEAM|SRL|Sunrisers Leeds|SRL|F26522|1A1A1A|Leeds|Headingley|G|Harry Brook
+Harry Brook, Brydon Carse, Mitchell Marsh, Nathan Ellis, Ryan Rickelton, Zak Crawley, Matthew Potts, Dan Lawrence, Abrar Ahmed, Benny Howell, Tom Lawes, Tom Alsop, Liam Patterson-White, Reece Topley, Ed Barnard
+TEAM|TR|Trent Rockets|TR|FDC52F|1A1A1A|Nottingham|Trent Bridge|F|Tom Banton
+Tom Banton, Ben Duckett, Tim David, Mitchell Santner, Finn Allen, David Payne, Lewis Gregory, Craig Overton, Dan Mousley, Matt Henry, Sam Billings, Aneurin Donald, Ben Mayes, Danny Briggs, Brad Currie, Louis Kimber
+TEAM|WF|Welsh Fire|WF|E30613|1A1A1A|Cardiff|Sophia Gardens|B|Chris Woakes
+Chris Woakes, Phil Salt, Rachin Ravindra, Marco Jansen, Joe Root, Jordan Cox, Tom Kohler-Cadmore, Ben Kellaway, Lockie Ferguson, Asa Tribe, Tom Aspinwall, Matt Short, Sam Cook, Jafer Chohan
+
+COMP|ILT20|International League T20|T20|UAE|9|10|ipl4|11|USD k|2500|21|17
+TEAM|ADKR|Abu Dhabi Knight Riders|ADKR|5B2C83|D4AF37|Abu Dhabi|Zayed Cricket Stadium|B|Sunil Narine
+Finn Allen, Jason Holder, Matthew Tromp, Sunil Narine, Muhammad Rohid, Alishan Sharafu, Ibrar Ahmed, Ajay Kumar, Moeen Ali, Andre Fletcher, Jakeem Pollard, Gulbadin Naib, Colin Munro, Amshi de Silva, Abdul Mannan Ali, Michael Pepper, Lorcan Tucker, Usman Tariq, Qais Ahmad, Abdullah Tarakhail, Ravija Sandaruwan
+TEAM|DV|Desert Vipers|DV|E10600|1A1A1A|Dubai|Dubai International Stadium|D|Babar Azam
+Andries Gous, Dan Lawrence, Mujeeb Ur Rahman, Shimron Hetmyer, Khuzaima Bin Tanveer, Vriitya Aravind, Nilansh Keswani, Babar Azam, Naseem Shah, Fakhar Zaman, Aneurin Donald, David Payne, Nangeyalia Kharote, Sanjay Pahal, Harry Tector, Joe Clarke, Saleem Safi, Abdullah Ahmadzai, Shadab Khan, Bilal Tahir, Ishtiaq Ahmed, Wali Muhammad
+TEAM|DCAP|Dubai Capitals|DCAP|0E3D8B|E31B23|Dubai|Dubai International Stadium|D|Faf du Plessis
+Marcus Stoinis, Mustafizur Rahman, Noor Ahmad, Rovman Powell, Zuhaib Zubair, Aayan Khan, Haider Ali (UAE), Faf du Plessis, Dasun Shanaka, Phil Salt, Max Holden, Darwish Rasooli, Sediqullah Atal, Karim Janat, Mark Adair, Muhammad Arfan, Matthew Potts, Hassan Khan, Anudeep Chenthamara, Usman Najeeb, Tom Moores, Luke Wood, Masood Gurbaz
+TEAM|GG|Gulf Giants|GG|F47920|1B2133|Dubai|ICC Academy|B|David Miller
+Azmatullah Omarzai, Blessing Muzarabani, David Miller, Heinrich Klaasen, Matiullah Khan, Dhruv Parashar, Ibrahim Zadran, Rahmanullah Gurbaz, Liam Livingstone, Curtis Campher, Haider Razzaq, Shamar Joseph, Imran Mir, Alzarri Joseph, David Wiese, Shubham Ranjane, Meet Bhavsar, Imtiaz Khan, Alick Athanaze, Tabraiz Shamsi, Sagar Kalyan, Awais Ahmad, Wahidullah Zadran
+TEAM|MIE|MI Emirates|MIE|004BA0|D1AB3E|Abu Dhabi|Sheikh Zayed Stadium|F|Nicholas Pooran
+Nicholas Pooran, Rashid Khan, Romario Shepherd, Sherfane Rutherford, Muhammad Waseem, Zahoor Khan, Fazalhaq Farooqi, Waseem Akram (UAE), Allah Ghazanfar, Asa Tribe, Mohammad Shafeeq, Zain ul Abidin, Chris Jordan, James Coles, Lizaad Williams, Jordan Thompson, Ross Adair, Faridoon Dawoodzai, Sanjay Krishnamurthi, Raizal Nadir Nather Shah, Jonny Bairstow
+TEAM|SW|Sharjah Warriorz|SW|00A3E0|0B2545|Sharjah|Sharjah Cricket Stadium|D|Sikandar Raza
+Adam Milne, James Vince, Waqar Salamkheil, Sikandar Raza, Tanish Suri, Junaid Siddique, Ali Aamer Naseer, Adil Rashid, Mohammad Nabi, Richard Gleeson, George Linde, Paul Walter, Nabeel Aziz, George Dockrell, Brandon McMullen, Arunraj Selvaraj, Mohammad Saqib, Craig Overton, James Rew, Tom Banton, Logan van Beek, Sarafuddin Ashraf, Farid Ahmad Malik
+
+COMP|MLC|Major League Cricket|T20|USA|6|10|ipl4|6|USD k|1500|19|9
+TEAM|LAKR|Los Angeles Knight Riders|LAKR|5B2C83|D4AF37|Los Angeles|Great Park Stadium|B|Jason Holder
+Jason Holder, Andre Russell, Unmukt Chand, Sunil Narine, Alex Hales, Andre Fletcher, Colin Munro, Shadley van Schalkwyk, Nitish Kumar, Christopher Ramsaran, Rovman Powell, Ali Khan, Saif Badar, Fabian Allen, Carmi le Roux, Lloyd Pope, Jahmar Hamilton, Karthik Gattepalli, Matthew Tromp
+TEAM|MINY|MI New York|MINY|004BA0|D1AB3E|New York|Nassau County Stadium|P|Nicholas Pooran
+Nicholas Pooran, Corey Anderson, Quinton de Kock, Kieron Pollard, Trent Boult, Tajinder Singh, Ryan Rickelton, Romario Shepherd, Agni Chopra, Corbin Bosch, Monank Patel, Nosthush Kenjige, Faisal Khan Ahmadzai, Rushil Ugarkar, Allah Ghazanfar, Tristan Luus, Sunny Patel, Kunwarjeet Singh
+TEAM|SFU|San Francisco Unicorns|SFU|F05A28|3B2A6B|San Francisco|Oakland Coliseum|B|Matt Short
+Matt Short, Kusal Perera, Ravichandran Ashwin, Liam Dawson, Peter Siddle, Hammad Azam, Ghulam Mudassar, Hassan Khan, Finn Allen, Aakarshit Gomel, Haris Rauf, Brody Couch, Juanoy Drysdale, Anirudh Emmanuel, Stephen Wiig, Sanjay Krishnamurthi, Saideep Ganesh, Connor Esterhuizen, Lhuan-dre Pretorius, Ollie Peake
+TEAM|SO|Seattle Orcas|SO|00877A|1A1A1A|Seattle|Marymoor Park|B|Marcus Stoinis
+Marcus Stoinis, Harmeet Singh, Dasun Shanaka, Shehan Jayasuriya, Cameron Gannon, Shimron Hetmyer, Tim Seifert, Matthew Breetzke, Sharad Lumba, Sujit Nayak, Lutho Sipamla, Jesse Singh, Tanveer Sangha, Shayan Jahangir, Ottneil Baartman, Tim Robinson, Ali Sheikh, Ayan Desai, Rahul Jariwala
+TEAM|TSK|Texas Super Kings|TSK|FDB913|0A3C78|Dallas|Grand Prairie Stadium|S|Faf du Plessis
+Faf du Plessis, Milind Kumar, Rilee Rossouw, Adam Milne, Akeal Hosein, Hardus Viljoen, Keshav Maharaj, Smit Patel, Calvin Savage, Wiaan Mulder, Abhimanyu Lamba, Shubham Ranjane, Nandre Burger, Mohammad Mohsin, Donovan Ferreira, Saiteja Mukkamalla, Joshua Tromp
+TEAM|WAF|Washington Freedom|WAF|0B2545|E31B23|Washington DC|George Mason Ground|B|Steve Smith
+Steve Smith, Glenn Maxwell, Mark Chapman, Ben Dwarshuis, Amila Aponso, Andries Gous, Lockie Ferguson, Mukhtar Ahmed, Jack Edwards, Rachin Ravindra, Ian Holland, Saurabh Netravalkar, Marco Jansen, Lahiru Milantha, Nikhil Chaudhary, Mitchell Owen, Yasir Mohammad, Abhishek Paradkar, Obus Pienaar, Asif Mahmood
+
+COMP|CC1|County Championship Div 1|FC4|ENG|2|14|none|4|GBP k|900|28|2
+TEAM|SOM|Somerset|SOM|111111|E4002B|Taunton|Cooper Associates County Ground|D|Lewis Gregory
+Tom Lammonby, Will Smeed, Tom Abell, Tom Kohler-Cadmore, Fin Hill, Henry Nicholls, Craig Overton, Josh Thomas, Kian Roberts, Lewis Gregory, Lewis Goldsworthy, Archie Vaughan, Tom Banton, Thomas Rew, James Rew, Alfie Ogborne, Josh Shaw, Jake Ball, Jack Leach, Migael Pretorius, James Theedom
+TEAM|NOT|Nottinghamshire|NOT|006837|FFD100|Nottingham|Trent Bridge|G|Haseeb Hameed
+Ben Martindale, Ben Duckett, Ben Slater, Jack Haynes, Freddie McCann, Tayyab Tahir, Travis Holland, George Munsey, Sam Seecharan, Haseeb Hameed, Lyndon James, Benny Howell, Joe Pocklington, Liam Patterson-White, George Linde, Byron Hatton-Lowe, Tom Moores, Joe Clarke, Kyle Verreynne, Conor McKerr, Robert Lord, Mohammad Amir, Farhan Ahmed, Olly Stone, Fergus O'Neill, Mohammad Ali, Brett Hutton, Dillon Pennington, Josh Tongue, Fraser Sheat, Tom Giles, Binura Fernando, Francis Moore
+TEAM|WAR|Warwickshire|WAR|0B2545|E4002B|Birmingham|Edgbaston|B|Ed Barnard
+Zen Malik, Sam Hain, Rob Yates, Vansh Jani, Jacob Bethell, Charlie Taylor, Chris Woakes, Ed Barnard, Dan Mousley, Kai Smith, Alex Davies, George Garton, Tazeem Ali, Nathan Gilchrist, Oliver Hannon-Dalby, Michael Booth, Richard Gleeson, Jordan Thompson, Ethan Bamber, Hamza Shaikh
+TEAM|SUS|Sussex|SUS|0B2B5C|E9B44C|Hove|1st Central County Ground|F|John Simpson
+Tom Haines, Tom Clark, James Coles, Jack Leaning, Harrison Ward, Tom Alsop, Danial Ibrahim, Joey Evison, Tom Price, John Simpson, Oli Carter, Charlie Tear, Danny Briggs, Tymal Mills, Brad Currie, Nantes Oosthuizen, Jack Carson, Sean Hunt, Jofra Archer, Troy Henry, Ollie Robinson, Dom Goodman
+TEAM|YOR|Yorkshire|YOR|0B2B5C|FFC20E|Leeds|Headingley|G|Jonny Bairstow
+Sam Whiteman, Adam Lyth, James Wharton, Will Bennison, Joe Root, Will Luxton, Harry Brook, Moeen Ali, Dom Bess, George Hill, Matt Revis, Owen Smith, Finlay Bean, Jonny Bairstow, Adil Rashid, Jafer Chohan, Isaac Bepey, Ben Coad, Jack White, Ben Cliff, Brad Sylvester, Andrew Tye, Matthew Firbank, Jay Singh, James Taylor
+TEAM|SUR|Surrey|SUR|5C3A21|D4AF37|London|The Kia Oval|F|Rory Burns
+Laurie Evans, Rory Burns, Jason Roy, Dom Sibley, Adam Thomas, Nikhil Gorantla, Tommy Ealham, Will Jacks, Jordan Clark, Ralphie Albert, Ryan Patel, Dan Lawrence, Tom Lawes, Chris Jordan, Ollie Sykes, Sam Curran, Tom Curran, Ben Foakes, Jamie Smith, Ollie Pope, Dan Worrall, Matthew Fisher, Alex French, Reece Topley, Nathan Barnwell, Gus Atkinson, Yousef Majid, Jamie Overton, Henry Crocombe, Nathan Sowter
+TEAM|GLA|Glamorgan|GLA|0B2545|FFD100|Cardiff|Sophia Gardens|B|Kiran Carlson
+Kiran Carlson, Billy Root, Callum Nicholls, Jack Hope-Bell, Colin Ingram, Sean Dickson, Asa Tribe, Eddie Byrom, Ben Kellaway, Zain-ul-Hassan, James Neesham, Dan Douthwaite, Henry Hurle, Will Smale, Alex Horton, Chris Cooke, Harry Wallace, Nathan McAndrew, Mason Crane, Andy Gorvin, Tom Norton, Connor O'Riordan, Ben Morris, Ned Leonard, Tom Edwards, Raymond Toole, Ryan Hadley, Jamie McIlroy, Timm van der Gugten, Romano Franco, Fazalhaq Farooqi, Mir Hamza
+TEAM|ESS|Essex|ESS|0B2545|E4002B|Chelmsford|Cloud County Ground|F|Tom Westley
+Tom Westley, Charlie Allison, Zaman Akhter, Noah Thain, Matt Critchley, Paul Walter, Luc Benkenstein, Michael Pepper, Simon Fernandes, Jordan Cox, Mitchell Killeen, Sam Cook, Shane Snater, Jamie Porter, Mackenzie Jones, Charlie Bennett, George Bell
+TEAM|LEI|Leicestershire|LEI|1D4F91|5FB346|Leicester|Uptonsteel County Ground|B|Ian Holland
+Sheridon Gumbs, Sol Budinger, Lewis Hill, Rishi Patel, Stephen Eskinazi, Nick Kelly, Jake Weatherald, Ben Green, Ben Mike, Ian Holland, Ruan de Swardt, Rehan Ahmed, Ashton Turner, Mohammed Rizvi, Liam Trevaskis, Ben Cox, Jonny Tattersall, Sam Wood, Josh Hull, Ajaz Patel, Yadvinder Singh, Josh Davey, Alex Green, Theo Marshall, Tom Scriven
+TEAM|HAM|Hampshire|HAM|0B2545|D4AF37|Southampton|Utilita Bowl|B|Ben Brown
+Joe Weatherley, James Vince, Toby Albert, Fletcha Middleton, Ben Mayes, Ali Orr, Tristan Stubbs, Nick Gubbins, Jake Lehmann, Hilton Cartwright, Felix Organ, Liam Dawson, Dominic Kelly, Andrew Neal, Tom Prest, James Fuller, Delano Potgieter, Ashutosh Sharma, Ben Brown, Harry Petrie, Ollie Williams, Chris Wood, Codi Yusuf, Manny Lumsden, Scott Currie, Brad Wheal, Kyle Abbott, Eddie Jack, Sonny Baker
+
+COMP|CC2|County Championship Div 2|FC4|ENG|2|14|none|4|GBP k|900|28|2
+TEAM|DUR|Durham|DUR|1D3D8F|7FC1E6|Chester-le-Street|Seat Unique Riverside|G|Alex Lees
+David Bedingham, Graham Clark, Ben McKinney, Will Rhodes, Alex Lees, Emilio Gay, Colin Ackermann, Luke Symington, Ben Stokes, Ben Raine, Kasey Aldridge, Ollie Robinson (DUR), Haydon Mustard, Robbie Bowman, Shafiqullah Ghafari, Luke Robinson, Callum Parkinson, Daniel Hogg, Archie Bailey, Mark Wood, Matthew Potts, Sam Conners, James Minto, Brydon Carse, Charlie Harmison
+TEAM|NOR|Northamptonshire|NOR|7B2D6E|D4AF37|Northampton|County Ground Northampton|B|Luke Procter
+Aadi Sharma, George Bartlett, Louis Kimber, Stuart van der Merwe, Ricardo Vasconcelos, Nathan McSweeney, Chris Lynn, Sam King, Luke Procter, James Sales, Saif Zaib, Rob Keogh, David Willey, Gus Miller, Calvin Harrison, Justin Broad, Lewis McManus, Arush Buchake, Yuzvendra Chahal, Harry Conway, Ben Sanderson, Dom Leech, Liam Guthrie, Tiaan Louw, Nirvan Ramesh, Raphy Weatherall, George Scrimshaw
+TEAM|KEN|Kent|KEN|003B7A|E4002B|Canterbury|Spitfire Ground|B|Daniel Bell-Drummond
+Ben Compton, Ekansh Singh, Joe Denly, Tawanda Muyeye, Zak Crawley, Sam Northeast, Daniel Bell-Drummond, Grant Stewart, Bertie Foreman, Corey Flintoff, Olly Curtiss, Dian Forrester, Jaydn Denly, Sam Billings, Chris Benjamin, Ben Dawkins, Harry Finch, Matt Milnes, Khaled Ahmed, Fred Klaassen, Jas Singh, Matt Parkinson, Michael Cohen, Glenton Stuurman, Matt Quinn, Keith Dudgeon, Hasan Mahmud
+TEAM|MID|Middlesex|MID|0B2545|E4002B|London|Lord's|B|Leus du Plooy
+Ben Geddes, Leus du Plooy, Matt Boyle, Max Holden, Aaryan Sawant, Sam Robson, Nathan Fernandes, Caleb Falconer, Josh de Caires, Ryan Higgins, Luke Hollman, Adam Rossington, Jack Davies, Joe Cracknell, Naavya Sharma, Tom Helm, Henry Brookes, Noah Cornwell, James Feldman, Sebastian Morgan, Blake Cullen, Toby Roland-Jones, Ishaan Kaushal, Eathan Bosch, Zafar Gohar
+TEAM|DER|Derbyshire|DER|0B2545|D4AF37|Derby|Incora County Ground|B|Wayne Madsen
+Caleb Jewell, Harry Came, Mitch Wagstaff, Yousaf Bin Naeem, Ross Whiteley, Amrit Basra, Wayne Madsen, Joe Hawkins, Martin Andersson, Luis Reece, Matt Montgomery, Zak Chappell, Anuj Dal, Aneurin Donald, Brooke Guest, Brett Randell, Shoaib Bashir, Sufyan Moqim, Ben Aitchison, Harry Moore, Jack Morley, Will Rogers, Nick Potts, Pat Brown, Mohammad Abbas, Akif Javed, Rory Haydon
+TEAM|WOR|Worcestershire|WOR|111111|00843D|Worcester|New Road|B|Brett D'Oliveira
+Jake Libby, Rehaan Edavalath, Isaac Mohammed, Dan Lategan, Kashif Ali, Adam Hose, George Thomas, Matthew Waite, Tom Taylor, Brett D'Oliveira, Ethan Brookes, Gareth Roderick, Henry Cullen, Fateh Singh, Ben Gibbon, Usama Mir, Jack Home, Adam Finch, Ben Allison, Sam Greer
+TEAM|LAN|Lancashire|LAN|E4002B|0B2545|Manchester|Emirates Old Trafford|B|James Anderson
+Keaton Jennings, Rocky Flintoff, Marcus Harris, Harry Singh, Josh Bohannon, Liam Livingstone, Keshana Fonseka, Michael Jones, Luke Wells, George Balderson, Arav Shetty, Ben Walkden, Shadab Khan, Paul Coughlin, Chris Green, Jos Buttler, Phil Salt, Matthew Hurst, Joe Moores, Ben McDermott, Tom Hartley, Jack Blatherwick, Charlie Barnard, Tom Bailey, James Anderson, Tom Aspinwall, Luke Wood, Ollie Sutton, Saqib Mahmood, Mitchell Stanley, Ajeet Singh Dale, Noman Ali, Luke Hands
+TEAM|GLO|Gloucestershire|GLO|1C3F94|E4002B|Bristol|Seat Unique Stadium|B|Cameron Bancroft
+Cameron Bancroft, Jack Taylor, Dawid Malan, Joe Phillips, Tommy Boorman, Kamran Dhariwal, Miles Hammond, Graeme van Buuren, Ed Middleton, Ollie Price, Daz Ahmed, James Bracey, Will Williams, James Hayes, David Payne, Ahmed Syed, Aman Rao, Craig Miles, Matthew Taylor, Alfie Johnson, Marchant de Lange, Che Simmons, JT Langridge
+
+COMP|SHF|Sheffield Shield|FC4|AUS|0|10|final2|10|AUD k|1500|26|0
+TEAM|NSW|New South Wales|NSW|0D9DDB|0B2545|Sydney|Sydney Cricket Ground|B|Jack Edwards
+Ollie Davies, Sam Konstas, Nic Maddinson, Blake Nikitaras, Kurtis Patterson, Steve Smith, Riley Kingsell, Sean Abbott, Jack Edwards, Will Salzmann, Jake Scott, Charlie Stobo, Matt Gilkes, Josh Philippe, Lachlan Shaw, Ryan Hicks, Joel Davies, Nathan Lyon, Tanveer Sangha, Adam Zampa, Charlie Anderson, Pat Cummins, Ben Dwarshuis, Ryan Hadley, Liam Hatcher, Josh Hazlewood, Jack Nisbet, Mitchell Starc, Chris Tremain
+TEAM|QLD|Queensland|QLD|7A0019|FFC20E|Brisbane|The Gabba|P|Marnus Labuschagne
+Max Bryant, Hugo Burdon, Jack Clayton, Lachlan Hearne, Marnus Labuschagne, Angus Lovell, Matt Renshaw, Hugh Weibgen, Michael Neser, Jack Wildermuth, Lachlan Aitken, Jimmy Peirson, Jack Sinfield, Mitch Swepson, Thomas Balkin, Xavier Bartlett, Oliver Patterson, Jem Ryan, Gurinder Sandhu, Mark Steketee, Tom Straker, Callum Vidler, Tom Whitney, Usman Khawaja
+TEAM|SAU|South Australia|SAU|E31B23|0B2545|Adelaide|Adelaide Oval|F|Nathan McSweeney
+Kyle Brazell, Mackenzie Harvey, Henry Hunt, Jake Fraser-McGurk, Thomas Kelly, Jake Lehmann, Travis Head, Conor McInerney, Daniel Drew, Jason Sangha, Liam Scott, Nathan McSweeney, Aidan Cahill, Harry Nielsen, Alex Carey, Harry Matthias, Nathan McAndrew, Wes Agar, Harry Conway, Jordan Buckingham, Brendan Doggett, Spencer Johnson, Henry Thornton, Campbell Thompson, Ben Manenti, Lloyd Pope
+TEAM|TAS|Tasmania|TAS|00704A|FFC20E|Hobart|Bellerive Oval|G|Jordan Silk
+Nick Davis, Jordan Silk, Charlie Wakim, Tim Ward, Jake Weatherald, Mac Wright, Brad Hope, Raf MacMillan, Aidan O'Connor, Mitchell Owen, Nivethan Radhakrishnan, Beau Webster, Jake Doran, Caleb Jewell, Gabe Bell, Iain Carlisle, Kieran Elliott, Nathan Ellis, Riley Meredith, Lawrence Neil-Smith, Tom F Rogers, Billy Stanlake, Paddy Dooley, Jarrod Freeman, Matthew Kuhnemann
+TEAM|VIC|Victoria|VIC|0B2545|7FC1E6|Melbourne|Junction Oval|B|Will Sutherland
+Dylan Brasher, Josh Brown, Ashley Chandrasinghe, Harry Dixon, Peter Handscomb, Marcus Harris, Campbell Kellaway, Tom Rogers, Matt Short, Glenn Maxwell, Jonathan Merlo, Will Sutherland, Liam Blackford, Sam Harper, Reiley Mark, Todd Murphy, Doug Warren, Austin Anlezark, Scott Boland, Xavier Crone, Sam Elliott, Harry Hoekstra, Cameron McClure, Fergus O'Neill, Mitchell Perry, Peter Siddle
+TEAM|WAU|Western Australia|WAU|FFB81C|0B2545|Perth|WACA Ground|P|Sam Whiteman
+Hilton Cartwright, Sam Fanning, Jayden Goodwin, Corey Wasley, Teague Wyllie, Cooper Connolly, Keaton Critchell, Cameron Green, Aaron Hardie, Mitchell Marsh, D'Arcy Short, Ashton Turner, Cameron Bancroft, Josh Inglis, Sam Whiteman, Ashton Agar, Hamish McKenzie, Corey Rocchiccioli, Mahli Beardman, Jason Behrendorff, Brody Couch, Cameron Gannon, Liam Haskett, Bryce Jackson, Matt Kelly, Lance Morris, Joel Paris, Jhye Richardson, Josh Vernon
+
+# National teams: TEAM line then a core pool (selection pool also includes any player of that nationality)
+COMP|INTL|International|INT|-|0|0|none|1|-|0|30|0
+TEAM|IND|India|IND|1F5FBF|FF9933|Mumbai|Wankhede Stadium|F|Shubman Gill
+Shubman Gill, Yashasvi Jaiswal, KL Rahul, Devdutt Padikkal, Rishabh Pant, Dhruv Jurel, Ravindra Jadeja, Anshul Kamboj, Jasprit Bumrah, Prasidh Krishna, Akash Deep, Sai Sudharsan, Nitish Kumar Reddy, Washington Sundar, Kuldeep Yadav, Mohammed Siraj, Rohit Sharma, Virat Kohli, Shreyas Iyer, Axar Patel, Naman Dhir, Gurnoor Brar, Ruturaj Gaikwad, Arshdeep Singh, Ishan Kishan, Tilak Varma, Auqib Nabi, Kumar Kushagra, Yash Thakur, Suryakumar Yadav, Abhishek Sharma, Sanju Samson, Shivam Dube, Hardik Pandya, Varun Chakravarthy, Rinku Singh, Harshit Rana, Ravi Bishnoi, Mohammed Shami, Abhimanyu Easwaran, Sarfaraz Khan, Karun Nair, Harsh Dubey, Prince Yadav
+TEAM|AUS|Australia|AUS|FFCD00|00843D|Melbourne|MCG|P|Pat Cummins
+Xavier Bartlett, Scott Boland, Alex Carey, Pat Cummins, Brendan Doggett, Nathan Ellis, Cameron Green, Josh Hazlewood, Travis Head, Josh Inglis, Matthew Kuhnemann, Marnus Labuschagne, Nathan Lyon, Mitchell Marsh, Todd Murphy, Michael Neser, Steve Smith, Mitchell Starc, Jake Weatherald, Beau Webster, Adam Zampa, Cooper Connolly, Tim David, Ben Dwarshuis, Glenn Maxwell, Matt Renshaw, Marcus Stoinis, Sean Abbott, Sam Konstas, Matt Short, Jake Fraser-McGurk, Spencer Johnson, Lance Morris, Mitchell Owen, Aaron Hardie, Nathan McSweeney
+TEAM|ENG|England|ENG|0B2545|CE1126|London|Lord's|G|Joe Root
+Joe Root, Harry Brook, Rehan Ahmed, Jofra Archer, Gus Atkinson, Sonny Baker, Tom Banton, Shoaib Bashir, Jacob Bethell, Jos Buttler, Brydon Carse, Sam Cook, Jordan Cox, Henry Crocombe, Sam Curran, Liam Dawson, Ben Duckett, Emilio Gay, Matthew Fisher, Will Jacks, Dan Lawrence, Saqib Mahmood, Jamie Overton, Ollie Pope, Matthew Potts, Adil Rashid, Ollie Robinson, Phil Salt, Jamie Smith, Josh Tongue, Zak Crawley, Mark Wood, Luke Wood, James Coles, Mason Crane, Ben McKinney, Liam Patterson-White, Thomas Rew, Matt Revis
+TEAM|SA|South Africa|SA|007749|FFB612|Johannesburg|Wanderers Stadium|P|Temba Bavuma
+Temba Bavuma, David Bedingham, Ottneil Baartman, Corbin Bosch, Matthew Breetzke, Dewald Brevis, Tony de Zorzi, Marco Jansen, Keshav Maharaj, Kwena Maphaka, Aiden Markram, Wiaan Mulder, Senuran Muthusamy, Lungi Ngidi, Kagiso Rabada, Ryan Rickelton, Tristan Stubbs, Kyle Verreynne, Simon Harmer, Quinton de Kock, David Miller, Anrich Nortje, Gerald Coetzee, Nandre Burger, Lhuan-dre Pretorius, Jason Smith, George Linde, Donovan Ferreira, Rassie van der Dussen, Lizaad Williams
+TEAM|NZ|New Zealand|NZ|111111|C0C0C0|Wellington|Basin Reserve|G|Tom Latham
+Tom Blundell, Michael Bracewell, Mark Chapman, Devon Conway, Jacob Duffy, Zak Foulkes, Mitchell Hay, Matt Henry, Kyle Jamieson, Tom Latham, Daryl Mitchell, Henry Nicholls, Will O'Rourke, Glenn Phillips, Rachin Ravindra, Mitchell Santner, Ben Sears, Nathan Smith, Blair Tickner, Will Young, Finn Allen, Lockie Ferguson, James Neesham, Tim Seifert, Ish Sodhi, Adithya Ashok, Ajaz Patel, Trent Boult, Adam Milne
+TEAM|PAK|Pakistan|PAK|01411C|FFFFFF|Lahore|Gaddafi Stadium|F|Babar Azam
+Babar Azam, Aamir Jamal, Abdullah Fazal, Ali Usman, Azan Awais, Imam-ul-Haq, Khurram Shahzad, Mohammad Abbas, Mohammad Ali, Mohammad Rizwan, Awais Zafar, Ghazi Ghori, Sajid Khan, Salman Ali Agha, Saud Shakeel, Shan Masood, Ubaid Shah, Abrar Ahmed, Fakhar Zaman, Haris Rauf, Hasan Ali, Saim Ayub, Shadab Khan, Shaheen Afridi, Abdullah Shafique, Faheem Ashraf, Hasan Nawaz, Mohammad Haris, Mohammad Nawaz, Naseem Shah, Noman Ali, Sahibzada Farhan, Khawaja Nafay, Salman Mirza, Usman Khan, Usman Tariq, Abbas Afridi, Sufyan Moqim, Hussain Talat, Khushdil Shah
+TEAM|SL|Sri Lanka|SL|0F2C6B|FFBE29|Colombo|R Premadasa Stadium|D|Kusal Mendis
+Dasun Shanaka, Pathum Nissanka, Kamil Mishara, Kusal Mendis, Kamindu Mendis, Kusal Perera, Charith Asalanka, Janith Liyanage, Pavan Rathnayake, Dushan Hemantha, Dunith Wellalage, Maheesh Theekshana, Dushmantha Chameera, Matheesha Pathirana, Pramod Madushan, Dhananjaya de Silva, Dinesh Chandimal, Oshada Fernando, Lahiru Udara, Sadeera Samarawickrama, Nishan Madushka, Prabath Jayasuriya, Ramesh Mendis, Nishan Peiris, Asitha Fernando, Vishwa Fernando, Lahiru Kumara, Milan Rathnayake, Kasun Rajitha, Nuwan Thushara, Eshan Malinga, Wanindu Hasaranga, Jeffrey Vandersay, Avishka Fernando, Lasith Croospulle, Vijayakanth Viyaskanth, Dilshan Madushanka
+TEAM|WI|West Indies|WI|7B1F32|FDB913|Bridgetown|Kensington Oval|B|Roston Chase
+Alick Athanaze, Keacy Carty, Roston Chase, Justin Greaves, Shai Hope, Akeal Hosein, Alzarri Joseph, Shamar Joseph, Brandon King, Gudakesh Motie, Rovman Powell, Sherfane Rutherford, Jayden Seales, Romario Shepherd, Jomel Warrican, Jewel Andrew, Johnson Charles, Matthew Forde, Jason Holder, Shimron Hetmyer, Quentin Sampson, Kraigg Brathwaite, John Campbell, Tagenarine Chanderpaul, Kavem Hodge, Mikyle Louis, Anderson Phillip, Evin Lewis, Kevlon Anderson, Shamar Springer, Khary Pierre
+TEAM|BAN|Bangladesh|BAN|006A4E|F42A41|Dhaka|Shere Bangla Stadium|D|Najmul Hossain Shanto
+Najmul Hossain Shanto, Tanzid Hasan, Shadman Islam, Soumya Sarkar, Mominul Haque, Mushfiqur Rahim, Litton Das, Towhid Hridoy, Jaker Ali, Mehidy Hasan Miraz, Taijul Islam, Hasan Mahmud, Khaled Ahmed, Ebadot Hossain, Shoriful Islam, Saif Hassan, Afif Hossain, Mahidul Islam, Rishad Hossain, Tanvir Islam, Mustafizur Rahman, Taskin Ahmed, Nahid Rana, Parvez Hossain Emon, Nayeem Hasan, Tanzim Hasan Sakib, Mahmudul Hasan Joy, Nurul Hasan, Shamim Hossain, Nasum Ahmed, Mahedi Hasan
+TEAM|AFG|Afghanistan|AFG|0066B3|D32011|Sharjah|Sharjah Cricket Stadium|D|Rahmat Shah
+Rahmat Shah, Ikram Alikhil, Afsar Zazai, Sediqullah Atal, Abdul Malik, Hashmatullah Shahidi, Rahmanullah Zadran, Shahidullah Kamal, Ismat Alam, Qais Ahmad, Zia-ur-Rehman Akbar, Khalil Gurbaz, Saleem Safi, Zia ur Rahman Sharifi, Yamin Ahmadzai, Rahmanullah Gurbaz, Ibrahim Zadran, Azmatullah Omarzai, Mohammad Nabi, Rashid Khan, Nangyalai Khan, Allah Ghazanfar, Bilal Sami, Fazalhaq Farooqi, Noor Rahman, Mohammad Akram, Ijaz Ahmadzai, Abdullah Tarakhail, Noor Ahmad, Mujeeb Ur Rahman, Abdullah Ahmadzai, Farid Ahmad Malik, Darwish Rasooli, Gulbadin Naib, Mohammad Ishaq Rahimi
+TEAM|IRE|Ireland|IRE|169B62|FFFFFF|Dublin|Malahide|G|Paul Stirling
+Mark Adair, Ross Adair, Ben Calitz, Curtis Campher, Gareth Delany, George Dockrell, Matthew Humphreys, Josh Little, Barry McCarthy, Harry Tector, Tim Tector, Lorcan Tucker, Sam Topping, Ben White, Craig Young, Paul Stirling, Andy Balbirnie, Andy McBrine, Peter Moor, Cade Carmichael, Liam McCarthy, Gavin Hoey, Fionn Hand, Stephen Doheny
+TEAM|ZIM|Zimbabwe|ZIM|D21034|FFD200|Harare|Harare Sports Club|B|Craig Ervine
+Sikandar Raza, Brian Bennett, Ryan Burl, Graeme Cremer, Bradley Evans, Clive Madande, Tinotenda Maposa, Tadiwanashe Marumani, Wellington Masakadza, Tony Munyonga, Tashinga Musekiwa, Blessing Muzarabani, Dion Myers, Richard Ngarava, Ben Curran, Craig Ervine, Sean Williams, Nick Welch, Trevor Gwandu, Vincent Masekesa, Newman Nyamhuri, Tanaka Chivanga, Wessly Madhevere, Brendan Taylor, Joylord Gumbie, Takudzwanashe Kaitano
+TEAM|NED|Netherlands|NED|FF6600|0B2545|Amstelveen|VRA Ground|G|Scott Edwards
+Scott Edwards, Colin Ackermann, Noah Croes, Bas de Leede, Aryan Dutt, Fred Klaassen, Kyle Klein, Michael Levitt, Zach Lion-Cachet, Max O'Dowd, Logan van Beek, Timm van der Gugten, Roelof van der Merwe, Paul van Meekeren, Saqib Zulfiqar, Vikramjit Singh, Teja Nidamanuru, Sybrand Engelbrecht
+TEAM|SCOT|Scotland|SCOT|0B2545|7F5AB4|Edinburgh|The Grange|G|Richie Berrington
+Richie Berrington, Tom Bruce, Matthew Cross, Brad Currie, Oliver Davidson, Chris Greaves, Zainullah Ihsan, Michael Jones, Michael Leask, Finlay McCreath, Brandon McMullen, George Munsey, Safyaan Sharif, Mark Watt, Brad Wheal, Jasper Davidson, Jack Jarvis, Charlie Tear, Scott Currie, Mackenzie Jones
+TEAM|NEP|Nepal|NEP|DC143C|003893|Kirtipur|TU Cricket Ground|D|Rohit Paudel
+Rohit Paudel, Dipendra Singh Airee, Sandeep Lamichhane, Kushal Bhurtel, Aasif Sheikh, Sundeep Jora, Aarif Sheikh, Basir Ahamad, Sompal Kami, Karan KC, Nandan Yadav, Gulshan Jha, Lalit Rajbanshi, Sher Malla, Lokesh Bam, Kushal Malla
+TEAM|USA|United States|USA|0B2545|B22234|Dallas|Grand Prairie Stadium|B|Monank Patel
+Monank Patel, Andries Gous, Shehan Jayasuriya, Milind Kumar, Shayan Jahangir, Saiteja Mukkamalla, Sanjay Krishnamurthi, Harmeet Singh, Nosthush Kenjige, Shadley van Schalkwyk, Saurabh Netravalkar, Ali Khan, Mohammad Mohsin, Shubham Ranjane, Ehsan Adil, Aaron Jones, Corey Anderson, Smit Patel, Jasdeep Singh, Nitish Kumar
+TEAM|UAE|United Arab Emirates|UAE|00843D|E31B23|Dubai|Dubai International Stadium|D|Muhammad Waseem
+Muhammad Waseem, Alishan Sharafu, Aryansh Sharma, Dhruv Parashar, Haider Ali (UAE), Harshit Kaushik, Junaid Siddique, Mayank Kumar, Muhammad Arfan, Muhammad Farooq (UAE), Muhammad Jawadullah, Haider Shah, Muhammad Rohid, Sohaib Khan, Simranjeet Singh, Zahoor Khan, Basil Hameed, Vriitya Aravind, Ali Aamer Naseer, Sanjay Pahal
+TEAM|NAM|Namibia|NAM|003580|D21034|Windhoek|Wanderers Windhoek|B|Gerhard Erasmus
+Gerhard Erasmus, Zane Green, Bernard Scholtz, Ruben Trumpelmann, JJ Smit, Jan Frylinck, Louren Steenkamp, Malan Kruger, Nicol Loftie-Eaton, Jack Brassell, Ben Shikongo, JC Balt, Dylan Leicher, WP Myburgh, Max Heingo, Alexander Volschenk
+TEAM|OMA|Oman|OMA|DB161B|008000|Muscat|Al Amerat Stadium|D|Jatinder Singh
+Jatinder Singh, Vinayak Shukla, Mohammad Nadeem, Shakeel Ahmad, Hammad Mirza, Wasim Ali, Karan Sonavale, Shah Faisal, Nadeem Khan, Sufyan Mehmood, Jay Odedra, Shafiq Jan, Ashish Odedara, Jiten Ramanandi, Aamir Kaleem
+TEAM|CAN|Canada|CAN|D52B1E|FFFFFF|Toronto|Maple Leaf Ground|B|Dilpreet Bajwa
+Dilpreet Bajwa, Ajayveer Hundal, Ansh Patel, Dilon Heyliger, Harsh Thaker, Jaskarandeep Singh, Kaleem Sana, Kanwarpal Tathgur, Navneet Dhaliwal, Nicholas Kirton, Ravinderpal Singh, Saad Bin Zafar, Shivam Sharma, Shreyas Movva, Yuvraj Samra
+TEAM|ITA|Italy|ITA|0064AA|009246|Rome|Roma Cricket Ground|B|Wayne Madsen
+Wayne Madsen, Marcus Campopiano, Gian Piero Meade, Zain Ali, Ali Hasan, Crishan Kalugamage, Harry Manenti, Anthony Mosca, Justin Mosca, Syed Naqvi, Ben Manenti, Jaspreet Singh, JJ Smuts, Grant Stewart, Thomas Draca
+
+# Preferred national squads by format (recent selections). '*' marks captain.
+PREF|IND|T20I|Suryakumar Yadav*, Abhishek Sharma, Tilak Varma, Sanju Samson, Shivam Dube, Ishan Kishan, Hardik Pandya, Arshdeep Singh, Jasprit Bumrah, Mohammed Siraj, Varun Chakravarthy, Kuldeep Yadav, Axar Patel, Washington Sundar, Rinku Singh
+PREF|IND|ODI|Shubman Gill*, Rohit Sharma, Virat Kohli, Shreyas Iyer, KL Rahul, Nitish Kumar Reddy, Axar Patel, Naman Dhir, Anshul Kamboj, Gurnoor Brar, Ruturaj Gaikwad, Arshdeep Singh, Ishan Kishan, Mohammed Siraj, Prasidh Krishna, Kuldeep Yadav, Tilak Varma, Auqib Nabi
+PREF|IND|TEST|Shubman Gill*, Yashasvi Jaiswal, KL Rahul, Devdutt Padikkal, Rishabh Pant, Dhruv Jurel, Ravindra Jadeja, Anshul Kamboj, Jasprit Bumrah, Prasidh Krishna, Akash Deep, Sai Sudharsan, Nitish Kumar Reddy, Washington Sundar, Kuldeep Yadav, Mohammed Siraj
+PREF|AUS|T20I|Mitchell Marsh*, Xavier Bartlett, Cooper Connolly, Tim David, Ben Dwarshuis, Cameron Green, Nathan Ellis, Travis Head, Josh Inglis, Matthew Kuhnemann, Glenn Maxwell, Matt Renshaw, Marcus Stoinis, Adam Zampa, Sean Abbott
+PREF|AUS|ODI|Mitchell Marsh*, Travis Head, Matt Short, Josh Inglis, Marnus Labuschagne, Cameron Green, Alex Carey, Cooper Connolly, Mitchell Starc, Josh Hazlewood, Pat Cummins, Adam Zampa, Nathan Ellis, Xavier Bartlett, Ben Dwarshuis, Matthew Kuhnemann
+PREF|AUS|TEST|Pat Cummins*, Steve Smith, Marnus Labuschagne, Travis Head, Alex Carey, Cameron Green, Jake Weatherald, Beau Webster, Josh Inglis, Mitchell Starc, Josh Hazlewood, Scott Boland, Nathan Lyon, Todd Murphy, Michael Neser, Brendan Doggett, Matthew Kuhnemann
+PREF|ENG|T20I|Harry Brook*, Rehan Ahmed, Jofra Archer, Tom Banton, Jacob Bethell, Jos Buttler, Sam Curran, Liam Dawson, Ben Duckett, Will Jacks, Jamie Overton, Adil Rashid, Phil Salt, Josh Tongue, Luke Wood
+PREF|ENG|ODI|Harry Brook*, Ben Duckett, Phil Salt, Joe Root, Jacob Bethell, Jos Buttler, Will Jacks, Jamie Smith, Tom Banton, Jamie Overton, Brydon Carse, Jofra Archer, Adil Rashid, Gus Atkinson, Liam Dawson, Saqib Mahmood, Sam Curran
+PREF|ENG|TEST|Joe Root*, Ben Duckett, Zak Crawley, Ollie Pope, Harry Brook, Jamie Smith, Jacob Bethell, Brydon Carse, Gus Atkinson, Jofra Archer, Josh Tongue, Shoaib Bashir, Mark Wood, Matthew Potts, Sam Cook, Emilio Gay
+PREF|SA|T20I|Aiden Markram*, Quinton de Kock, Dewald Brevis, David Miller, Ryan Rickelton, Tristan Stubbs, Marco Jansen, Keshav Maharaj, Kagiso Rabada, Kwena Maphaka, Lungi Ngidi, Jason Smith, George Linde, Corbin Bosch, Anrich Nortje
+PREF|SA|ODI|Temba Bavuma*, Aiden Markram, Quinton de Kock, Ryan Rickelton, Matthew Breetzke, Dewald Brevis, Tristan Stubbs, Wiaan Mulder, Corbin Bosch, Marco Jansen, Keshav Maharaj, Kagiso Rabada, Lungi Ngidi, Nandre Burger, Kwena Maphaka, Senuran Muthusamy
+PREF|SA|TEST|Temba Bavuma*, Aiden Markram, Ryan Rickelton, Tony de Zorzi, Tristan Stubbs, David Bedingham, Kyle Verreynne, Wiaan Mulder, Marco Jansen, Corbin Bosch, Keshav Maharaj, Simon Harmer, Senuran Muthusamy, Kagiso Rabada, Lungi Ngidi, Ottneil Baartman, Dewald Brevis
+PREF|NZ|T20I|Mitchell Santner*, Finn Allen, Michael Bracewell, Mark Chapman, Devon Conway, Jacob Duffy, Lockie Ferguson, Matt Henry, Daryl Mitchell, James Neesham, Glenn Phillips, Rachin Ravindra, Tim Seifert, Ish Sodhi, Kyle Jamieson
+PREF|NZ|ODI|Mitchell Santner*, Devon Conway, Will Young, Rachin Ravindra, Daryl Mitchell, Tom Latham, Glenn Phillips, Michael Bracewell, Mitchell Hay, Mark Chapman, Matt Henry, Jacob Duffy, Kyle Jamieson, Will O'Rourke, Nathan Smith, Zak Foulkes
+PREF|NZ|TEST|Tom Latham*, Devon Conway, Will Young, Rachin Ravindra, Daryl Mitchell, Henry Nicholls, Tom Blundell, Glenn Phillips, Mitchell Santner, Matt Henry, Kyle Jamieson, Will O'Rourke, Nathan Smith, Jacob Duffy, Ben Sears, Blair Tickner, Ajaz Patel
+PREF|PAK|T20I|Salman Ali Agha*, Abrar Ahmed, Babar Azam, Faheem Ashraf, Fakhar Zaman, Khawaja Nafay, Mohammad Nawaz, Salman Mirza, Naseem Shah, Sahibzada Farhan, Saim Ayub, Shaheen Afridi, Shadab Khan, Usman Khan, Usman Tariq
+PREF|PAK|ODI|Shaheen Afridi*, Babar Azam, Mohammad Rizwan, Fakhar Zaman, Saim Ayub, Salman Ali Agha, Abdullah Shafique, Hasan Nawaz, Faheem Ashraf, Hasan Ali, Haris Rauf, Naseem Shah, Abrar Ahmed, Sufyan Moqim, Mohammad Nawaz, Hussain Talat
+PREF|PAK|TEST|Babar Azam*, Aamir Jamal, Abdullah Fazal, Ali Usman, Azan Awais, Imam-ul-Haq, Khurram Shahzad, Mohammad Abbas, Mohammad Ali, Mohammad Rizwan, Awais Zafar, Ghazi Ghori, Sajid Khan, Salman Ali Agha, Saud Shakeel, Shan Masood, Ubaid Shah, Shaheen Afridi, Naseem Shah, Abrar Ahmed
+PREF|SL|T20I|Dasun Shanaka*, Pathum Nissanka, Kamil Mishara, Kusal Mendis, Kamindu Mendis, Kusal Perera, Charith Asalanka, Janith Liyanage, Pavan Rathnayake, Dushan Hemantha, Dunith Wellalage, Maheesh Theekshana, Dushmantha Chameera, Matheesha Pathirana, Pramod Madushan
+PREF|SL|ODI|Kusal Mendis*, Pathum Nissanka, Avishka Fernando, Kamindu Mendis, Charith Asalanka, Janith Liyanage, Dunith Wellalage, Wanindu Hasaranga, Maheesh Theekshana, Asitha Fernando, Dilshan Madushanka, Eshan Malinga, Dushmantha Chameera, Sadeera Samarawickrama, Kamil Mishara, Pavan Rathnayake
+PREF|SL|TEST|Dhananjaya de Silva*, Pathum Nissanka, Oshada Fernando, Kusal Mendis, Kamindu Mendis, Dinesh Chandimal, Sadeera Samarawickrama, Prabath Jayasuriya, Ramesh Mendis, Nishan Peiris, Asitha Fernando, Vishwa Fernando, Lahiru Kumara, Milan Rathnayake, Kasun Rajitha, Dunith Wellalage
+PREF|WI|T20I|Shai Hope*, Shimron Hetmyer, Johnson Charles, Roston Chase, Matthew Forde, Jason Holder, Akeal Hosein, Shamar Joseph, Brandon King, Gudakesh Motie, Rovman Powell, Sherfane Rutherford, Quentin Sampson, Jayden Seales, Romario Shepherd
+PREF|WI|ODI|Shai Hope*, Brandon King, Keacy Carty, Alick Athanaze, Roston Chase, Sherfane Rutherford, Justin Greaves, Gudakesh Motie, Matthew Forde, Jason Holder, Alzarri Joseph, Shamar Joseph, Jayden Seales, Romario Shepherd, Shimron Hetmyer
+PREF|WI|TEST|Roston Chase*, Kraigg Brathwaite, John Campbell, Alick Athanaze, Shai Hope, Justin Greaves, Keacy Carty, Tagenarine Chanderpaul, Kavem Hodge, Mikyle Louis, Kevlon Anderson, Jomel Warrican, Alzarri Joseph, Shamar Joseph, Jayden Seales, Anderson Phillip, Khary Pierre, Joshua Da Silva
+PREF|BAN|TEST|Najmul Hossain Shanto*, Tanzid Hasan, Shadman Islam, Soumya Sarkar, Mominul Haque, Mushfiqur Rahim, Litton Das, Towhid Hridoy, Jaker Ali, Mehidy Hasan Miraz, Taijul Islam, Hasan Mahmud, Khaled Ahmed, Ebadot Hossain, Shoriful Islam, Nayeem Hasan
+PREF|BAN|ODI|Mehidy Hasan Miraz*, Soumya Sarkar, Saif Hassan, Tanzid Hasan, Najmul Hossain Shanto, Towhid Hridoy, Litton Das, Afif Hossain, Mahidul Islam, Rishad Hossain, Tanvir Islam, Mustafizur Rahman, Taskin Ahmed, Shoriful Islam, Nahid Rana
+PREF|BAN|T20I|Litton Das*, Tanzid Hasan, Parvez Hossain Emon, Saif Hassan, Towhid Hridoy, Jaker Ali, Shamim Hossain, Mehidy Hasan Miraz, Rishad Hossain, Nasum Ahmed, Mustafizur Rahman, Taskin Ahmed, Tanzim Hasan Sakib, Shoriful Islam, Nahid Rana, Mahedi Hasan
+PREF|AFG|TEST|Rahmat Shah*, Ikram Alikhil, Afsar Zazai, Sediqullah Atal, Abdul Malik, Hashmatullah Shahidi, Rahmanullah Zadran, Shahidullah Kamal, Ismat Alam, Qais Ahmad, Zia-ur-Rehman Akbar, Khalil Gurbaz, Saleem Safi, Zia ur Rahman Sharifi, Yamin Ahmadzai, Ibrahim Zadran, Rashid Khan
+PREF|AFG|ODI|Rahmat Shah*, Rahmanullah Gurbaz, Ikram Alikhil, Sediqullah Atal, Ibrahim Zadran, Hashmatullah Shahidi, Azmatullah Omarzai, Mohammad Nabi, Rashid Khan, Nangyalai Khan, Allah Ghazanfar, Bilal Sami, Zia ur Rahman Sharifi, Fazalhaq Farooqi, Yamin Ahmadzai
+PREF|AFG|T20I|Ibrahim Zadran*, Rahmanullah Gurbaz, Noor Rahman, Sediqullah Atal, Mohammad Akram, Shahidullah Kamal, Ijaz Ahmadzai, Azmatullah Omarzai, Abdullah Tarakhail, Rashid Khan, Noor Ahmad, Mujeeb Ur Rahman, Fazalhaq Farooqi, Abdullah Ahmadzai, Farid Ahmad Malik
+PREF|IRE|T20I|Paul Stirling*, Mark Adair, Ross Adair, Ben Calitz, Curtis Campher, Gareth Delany, George Dockrell, Matthew Humphreys, Josh Little, Barry McCarthy, Harry Tector, Tim Tector, Lorcan Tucker, Ben White, Craig Young
+PREF|ZIM|T20I|Sikandar Raza*, Brian Bennett, Ryan Burl, Graeme Cremer, Bradley Evans, Clive Madande, Tinotenda Maposa, Tadiwanashe Marumani, Wellington Masakadza, Tony Munyonga, Tashinga Musekiwa, Blessing Muzarabani, Dion Myers, Richard Ngarava, Ben Curran
+PREF|ZIM|TEST|Craig Ervine*, Brian Bennett, Ben Curran, Nick Welch, Sean Williams, Sikandar Raza, Clive Madande, Wessly Madhevere, Tafadzwa Tsiga, Blessing Muzarabani, Richard Ngarava, Tanaka Chivanga, Newman Nyamhuri, Vincent Masekesa, Trevor Gwandu

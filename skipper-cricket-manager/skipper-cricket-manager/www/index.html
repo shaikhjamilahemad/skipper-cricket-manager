@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<meta name="theme-color" content="#10261F">
+<meta name="color-scheme" content="dark">
+<title>Skipper</title>
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<div id="app"></div>
+<script src="js/data.js"></script>
+<script src="js/util.js"></script>
+<script src="js/engine.js"></script>
+<script src="js/db.js"></script>
+<script src="js/names.js"></script>
+<script src="js/world.js"></script>
+<script src="js/auction.js"></script>
+<script src="js/career.js"></script>
+<script src="js/ui/core.js"></script>
+<script src="js/ui/store.js"></script>
+<script src="js/app.js"></script>
+<script src="js/ui/match.js"></script>
+<script src="js/ui/menu.js"></script>
+<script src="js/ui/hub.js"></script>
+<script src="js/ui/auction_ui.js"></script>
+<script src="js/ui/editor.js"></script>
+<script>
+  window.addEventListener('error', function (e) { try { console.error('[skipper]', e.message, e.filename + ':' + e.lineno); } catch (x) {} });
+  SK.App.boot();
+</script>
+</body>
+</html>
